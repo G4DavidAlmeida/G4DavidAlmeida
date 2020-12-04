@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**G4DavidAlmeida/G4DavidAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hello there, My name is David!
+# Hello there 👋, My name is David!
 
 - 🌱 I'm currently learning java, php, web design, i do my best to improve my abilities
 
