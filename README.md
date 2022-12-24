@@ -1,15 +1,18 @@
 # Hello there 👋, My name is David!
 
-- 🌱 I'm currently learning java, php, web design, i do my best to improve my abilities
+- 🌱 I'm currently learning web design, UX/UI, i do my best to improve my abilities
 
 - 💬 Ask me about anything, i Will try answer
 
+- what technology's i work?
+  Currently a work with Python and Nodejs, both to Web Development, but also, i study ASP.NET to increcie my knowledges
+
 - 📫 How to reach me:
-  usually i'm on my discord, listening to music while doing my studies, both from college and my courses apart.
-  this is my discord: David Almeida#1812
+  Just send me a message to the whatsapp or telegram, i will answer sooner as possible
 
 - ⚡ Fun fact:
   I love games
   I love cats
   I use Ubuntu, but i have windows too, for C#
-  My cat's name is RJ, in honor of RJ from the movie 'over the hedge', he looks like him
+  I have two cats, the first name is RJ, i give hin this name in honor of RJ from the movie 'over the hedge', he looks like him,
+  and the second is Helena, for her affectionate way
